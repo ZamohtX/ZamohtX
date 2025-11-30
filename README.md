@@ -1,8 +1,8 @@
 <h1 align="center">Olá, eu sou Thomaz Xavier 👋</h1>
 
 <div align="center">
-  💻 Desenvolvedor Full Stack & Estudante de Ciência da Computação na <strong>UFAL</strong> |  
-  🧠 Focado em Arquitetura de Software, APIs & Cloud |\n  
+  <p>💻 Desenvolvedor Full Stack & Estudante de Ciência da Computação na <strong>UFAL</strong></p>
+  <p>🧠 Focado em Arquitetura de Software, APIs & Cloud</p>
   <p>🌎 From Maceió, Brasil</p>
 </div>
 
