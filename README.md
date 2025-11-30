@@ -3,7 +3,7 @@
 <p align="center">
   💻 Desenvolvedor Full Stack & Estudante de Ciência da Computação na <strong>UFAL</strong> |  
   🧠 Focado em Arquitetura de Software, APIs & Cloud |  
-  🌎 From Maceió, Brasi
+  🌎 From Maceió, Brasil
 </p>
 
 ---
