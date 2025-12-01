@@ -51,7 +51,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZamohtX&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZamohtX&theme=tokyonight&hide_border=true&langs_count=6"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZamohtX&layout=compact&theme=radical&hide_border=true"/>
 </div>
 
