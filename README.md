@@ -48,14 +48,20 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Estatísticas e Métricas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZamohtX&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZamohtX&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZamohtX&theme=tokyonight" width="100%">
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZamohtX&theme=tokyonight" height="170">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZamohtX&theme=tokyonight" height="170">
 </div>
 
----
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZamohtX&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</div>
 
 ### ✨ Fatos Curiosos
 
